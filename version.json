@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "build": 3,
+  "version": "1.0.3",
+  "build": 4,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.2/inex-1.0.2+3.apk",
+  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.3/inex-1.0.3+4.apk",
   "releaseNotes": [
     "Fixed app version display in settings"
   ]
