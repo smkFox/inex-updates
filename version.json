@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "minimumSupportedBuild": 1,
+  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.0/inex-1.0.0+1.apk",
+  "releaseNotes": [
+    "Initial alpha build",
+    "Fixed amount input limits"
+  ]
+}
