@@ -1,11 +1,9 @@
 {
-  "version": "1.0.6",
-  "build": 7,
+  "version": "1.0.7",
+  "build": 8,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.6/inex-1.0.6+7.apk",
+  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.7/inex-1.0.7+8.apk",
   "releaseNotes": [
-    "Improved invite synchronization",
-    "Added transaction and transfer delete actions",
-    "Improved transaction list and numeric keyboard"
+    "Updated Android app icon"
   ]
 }
