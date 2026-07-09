@@ -1,9 +1,11 @@
 {
-  "version": "1.0.7",
-  "build": 8,
+  "version": "1.0.8",
+  "build": 9,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.7/inex-1.0.7+8.apk",
+  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.8/inex-1.0.8+9.apk",
   "releaseNotes": [
-    "Updated Android app icon"
+    "Added bulk transaction deletion",
+    "Completed full onboarding",
+    "Updated app icons"
   ]
 }
