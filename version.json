@@ -1,11 +1,12 @@
 {
-  "version": "1.0.8",
-  "build": 9,
+  "version": "1.0.9",
+  "build": 10,
   "minimumSupportedBuild": 1,
-  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.8/inex-1.0.8+9.apk",
+  "apkUrl": "https://github.com/smkFox/inex-updates/releases/download/v1.0.9/inex-1.0.9+10.apk",
   "releaseNotes": [
-    "Added bulk transaction deletion",
-    "Completed full onboarding",
-    "Updated app icons"
+    "Improved budget synchronization after sign-in",
+    "Prevented duplicate transaction and transfer saves",
+    "Fixed amount formatting on cards",
+    "Simplified data settings"
   ]
 }
